@@ -14,11 +14,11 @@ import static java.lang.Thread.sleep;
 public class Bot extends TelegramLongPollingBot {
 
     public String getBotUsername() {
-        return "Zabivvvv_bot";
+        return "";
     }
 
     public String getBotToken() {
-        return "8037169107:AAFpYgWMFVjBbk41d8CCceMSUMZuLdC2Fmk";
+        return "";
     }
 
     @Override
